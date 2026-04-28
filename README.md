@@ -15,3 +15,8 @@
 ### Open VPN
 
 - `sudo openvpn --config configFile.ovpn` Connect to OpenVPN with the config file
+
+### Curl and Docker
+
+- `sudo apt install curl -y` Install Curl
+- `curl -fsSL https://get.docker.com | sh` Install Docker
